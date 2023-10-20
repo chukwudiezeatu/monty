@@ -31,7 +31,7 @@ void rotl(stack_t **stack, unsigned int line_number)
 
 
 /**
- * rotr - make the last one is the top
+ * rotr - makee the last one is the top
  * @stack: the stack
  * @line_number: the line which are excuted
 */
