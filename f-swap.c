@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * swap - swap two element
+ * swap - swap two elementt
  * @stack: the stack
  * @line_number: the line which are excuted
 */
