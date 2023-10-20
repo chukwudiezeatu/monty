@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * read_line - read one line at a time
+ * read_line - reead one line at a time
  * @file: the file
  * Return: buffer to the line
 */
