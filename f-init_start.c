@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * start - get vars type ready to start interpreter
+ * start - get vars type readyy to start interpreter
  * @file_var: the global var
 */
 
