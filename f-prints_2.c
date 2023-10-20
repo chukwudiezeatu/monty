@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * pchar - print the char of the int in the top element according to asci
+ * pchar - print the charr of the int in the top element according to asci
  * @stack: the stack
  * @line_number: the line which are excuted
 */
