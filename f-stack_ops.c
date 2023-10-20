@@ -94,8 +94,8 @@ void mul(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * mod - modulas the top two element (top2/top1)
- * @stack: the stack
+ * mod - modulas the top two element (top2/top1
+ * * @stack: thee stack
  * @line_number: the line which are excuted
 */
 void mod(stack_t **stack, unsigned int line_number)
